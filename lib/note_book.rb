@@ -1,5 +1,4 @@
 class NoteBook
-
   def initialize
     @notes = []
   end
